@@ -11,6 +11,12 @@ public class SumOddCalc {
 
     }
 
+    public static int sumOdd(int start, int end){
+        int sum = 0;
+        for(i = start; i < end; i++){
 
+        }
+
+    }
 
 }
